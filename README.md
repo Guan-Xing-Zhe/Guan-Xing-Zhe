@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi there 👋 I'm Stargazer
 
-<!--
-**Guan-Xing-Zhe/Guan-Xing-Zhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Open Source, Shared Future.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+**Backend** | Java · Spring Boot · MyBatis · Spring Security · MySQL · Redis · RabbitMQ · RocketMQ
+**Frontend** | Vue.js · React · Next.js · Tailwind CSS · TypeScript
+**DevOps**  | Docker · Jenkins · Nginx · Linux
+**Tools**   | Git · Maven · Elasticsearch · Flowable
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [mall](https://github.com/Guan-Xing-Zhe/mall) | 🛒 电商系统深度分析 - Spring Boot + MyBatis 全栈电商 |
+| [ruoyi-vue-pro](https://github.com/Guan-Xing-Zhe/ruoyi-vue-pro) | 🏢 企业级后台管理系统 - RBAC权限+多租户+工作流 |
+| [zhanghe-blog](https://github.com/Guan-Xing-Zhe/zhanghe-blog) | 📝 个人技术博客 |
+
+---
+
+### 📊 GitHub Stats
+
+![Guan-Xing-Zhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guan-Xing-Zhe&show_icons=true&theme=default)
+
+---
+
+> *Open Source, Shared Future.*
