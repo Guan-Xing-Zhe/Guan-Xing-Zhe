@@ -32,8 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guan-Xing-Zhe&layout=compact&theme=radical" width="320"/>
 </p>
 
-### 📫 联系我
+### 📫 联系
 
-- Email: 2974810089@qq.com
 - GitHub: [Guan-Xing-Zhe](https://github.com/Guan-Xing-Zhe)
-- 个人网站: [guan-xing-zhe.github.io](https://guan-xing-zhe.github.io)
