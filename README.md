@@ -1,12 +1,13 @@
-### 技术栈
+### 技能特长
 
-| 方向 | 技能 |
+| 方向 | 技能详情 |
 |---|---|
-| 编程语言 | Java、C/C++、JavaScript |
-| 编译与程序分析 | 词法分析 · 语法分析 · AST · 解释器 · 静态分析 · JavaParser |
-| AI 开发 | LangChain · OpenAI API · AI Agent · Copilot / opencode |
-| 后端开发 | Spring Boot · MyBatis · MySQL · Redis · Docker |
-| 工具链 | Git · Maven · Linux · GitHub Actions |
+| **编程语言** | Java（熟悉 JVM 内存模型与字节码机制，具备运行时程序分析基础）、C/C++、JavaScript |
+| **编译与程序分析** | 词法分析 · 语法分析 · AST 遍历 · 树行走解释器 · 静态分析 · 数据流/控制流分析 · JavaParser |
+| **AI 开发** | LangChain · OpenAI API · AI Agent · Copilot / opencode 等 AI IDE 工具实践 |
+| **后端框架** | Spring Boot · MyBatis · Spring Security · Sa-Token · RESTful API 设计 |
+| **数据库与中间件** | MySQL · Redis · RabbitMQ / RocketMQ（了解）· Elasticsearch（了解） |
+| **工具链与 DevOps** | Git（Fork / PR / Code Review 协作流程）· Maven · Docker · Linux · GitHub Actions |
 
 ### 主要项目
 
